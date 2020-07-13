@@ -1,26 +1,33 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Router }  from "@reach/router";
+import House from "./House.js"
 
-function App() {
+let storageLike = localStorage.getItem("likeP");
+let storageHunger = localStorage.getItem("hungerP");
+let storageExcitement = localStorage.getItem("excitementP");
+let storageSleep = localStorage.getItem("sleepP");
+
+if(!storageLike){
+  localStorage.setItem("likeP", JSON.stringify(30));
+}
+if(!storageHunger){
+  localStorage.setItem("hungerP", JSON.stringify(30));
+}
+if(!storageExcitement){
+  localStorage.setItem("excitementP", JSON.stringify(30));
+}
+if(!storageSleep){
+  localStorage.setItem("sleepP", JSON.stringify(30));
+}
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app--div">
+        <Router>
+          <House path="/" />
+        </Router>
     </div>
   );
-}
+};
 
 export default App;
