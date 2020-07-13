@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hamster/static/css/main.c698d9dd.chunk.css",
+    "main.css": "/hamster/static/css/main.b0f6aa4f.chunk.css",
     "main.js": "/hamster/static/js/main.de9abc98.chunk.js",
     "main.js.map": "/hamster/static/js/main.de9abc98.chunk.js.map",
     "runtime-main.js": "/hamster/static/js/runtime-main.d782a3f9.js",
@@ -8,16 +8,16 @@
     "static/js/2.7234c1fd.chunk.js": "/hamster/static/js/2.7234c1fd.chunk.js",
     "static/js/2.7234c1fd.chunk.js.map": "/hamster/static/js/2.7234c1fd.chunk.js.map",
     "index.html": "/hamster/index.html",
-    "precache-manifest.412d706eb1d2ecf863fd2644c4915c59.js": "/hamster/precache-manifest.412d706eb1d2ecf863fd2644c4915c59.js",
+    "precache-manifest.311d7fe5536ed0342cef79b6e0ba3f0f.js": "/hamster/precache-manifest.311d7fe5536ed0342cef79b6e0ba3f0f.js",
     "service-worker.js": "/hamster/service-worker.js",
-    "static/css/main.c698d9dd.chunk.css.map": "/hamster/static/css/main.c698d9dd.chunk.css.map",
+    "static/css/main.b0f6aa4f.chunk.css.map": "/hamster/static/css/main.b0f6aa4f.chunk.css.map",
     "static/js/2.7234c1fd.chunk.js.LICENSE.txt": "/hamster/static/js/2.7234c1fd.chunk.js.LICENSE.txt",
     "static/media/hamster.JPG": "/hamster/static/media/hamster.aaa3241f.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.d782a3f9.js",
     "static/js/2.7234c1fd.chunk.js",
-    "static/css/main.c698d9dd.chunk.css",
+    "static/css/main.b0f6aa4f.chunk.css",
     "static/js/main.de9abc98.chunk.js"
   ]
 }

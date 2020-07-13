@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hamster/precache-manifest.412d706eb1d2ecf863fd2644c4915c59.js"
+  "/hamster/precache-manifest.311d7fe5536ed0342cef79b6e0ba3f0f.js"
 );
 
 self.addEventListener('message', (event) => {
