@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be2bd1b0acd0dde98119ab6592a19a6f",
+    "revision": "ab0363e44570159099d61acf6dafc8cb",
     "url": "/hamster/index.html"
   },
   {
-    "revision": "3e407c1fe5f1ffb57755",
+    "revision": "163cf29ace5253d02ca5",
     "url": "/hamster/static/css/main.c698d9dd.chunk.css"
   },
   {
-    "revision": "cd848d61474c4801a326",
-    "url": "/hamster/static/js/2.adfaa3c5.chunk.js"
+    "revision": "82cdb02fc1da3a1ba1d0",
+    "url": "/hamster/static/js/2.7234c1fd.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/hamster/static/js/2.adfaa3c5.chunk.js.LICENSE.txt"
+    "url": "/hamster/static/js/2.7234c1fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e407c1fe5f1ffb57755",
-    "url": "/hamster/static/js/main.3d2812d6.chunk.js"
+    "revision": "163cf29ace5253d02ca5",
+    "url": "/hamster/static/js/main.de9abc98.chunk.js"
   },
   {
     "revision": "49fc0c3a96aa640200f8",
